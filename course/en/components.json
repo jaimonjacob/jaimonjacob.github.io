@@ -70,7 +70,7 @@
     "_layout": "full",
     "_type": "component",
     "_parentId": "57c4094f2b69165c0d754f9b",
-    "body": "<p>A responsive web site adapts itself to the screen resolution, and you screen elements re-arrange as the browser resolution changes.</p>\n",
+    "body": "<p>A responsive web site adapts itself to the screen resolution, and you see screen elements re-arrange as the browser resolution changes.</p>\n",
     "displayTitle": "How does a responsive website look like?",
     "title": "How does a responsive website look like?",
     "_isAvailable": true,
