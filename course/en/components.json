@@ -582,7 +582,7 @@
       "button": "Retry Assessment",
       "feedback": ""
     },
-    "_completionBody": "{{{feedback}}} - You have scored {{{score}}} out of {{{maxScore}}}",
+    "_completionBody": "{{{feedback}}} You have scored {{{score}}} out of {{{maxScore}}}",
     "_bands": [
       {
         "_score": 0,
