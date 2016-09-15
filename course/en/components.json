@@ -315,7 +315,7 @@
     "_feedback": {
       "correct": "<p>That&#39;s correct.&nbsp;There is 1 responsive framework introduced in the first lesson. This is called Adapt.</p>\n",
       "_incorrect": {
-        "final": "<p>That&#39;s incorrect.&nbsp;There is 1 responsive framework introduced in the first lesson. This is called Adapt</p>\n",
+        "final": "<p>That&#39;s incorrect.&nbsp;There is 1 responsive framework introduced in the first lesson. This is called Adapt.</p>\n",
         "notFinal": ""
       },
       "_partlyCorrect": {
