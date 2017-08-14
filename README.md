@@ -1,4 +1,4 @@
-# This is a sample course created using Adapt Authoring tool.The following are the install instructions for Ubuntu 14.04 LTS.
+# This is a sample course created using Adapt Authoring tool. You can follow the instructions below for installing the authoring tool in Ubuntu 14.04 LTS.
 
 ## Linux upgrade
 
